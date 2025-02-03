@@ -34,12 +34,18 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/thejathangavel/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/thejathangavel/leetcode/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/thejathangavel/leetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thejathangavel/leetcode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/thejathangavel/leetcode/tree/master/0412-fizz-buzz) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/thejathangavel/leetcode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/thejathangavel/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
