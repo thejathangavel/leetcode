@@ -36,6 +36,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/thejathangavel/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/thejathangavel/leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/thejathangavel/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/thejathangavel/leetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -49,9 +50,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/thejathangavel/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/thejathangavel/leetcode/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/thejathangavel/leetcode/tree/master/0075-sort-colors) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/thejathangavel/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
