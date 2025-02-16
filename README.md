@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thejathangavel/leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/thejathangavel/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/thejathangavel/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/thejathangavel/leetcode/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thejathangavel/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/thejathangavel/leetcode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
