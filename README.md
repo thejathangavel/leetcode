@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thejathangavel/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/thejathangavel/leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/thejathangavel/leetcode/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thejathangavel/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Memoization
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/thejathangavel/leetcode/tree/master/0035-search-insert-position) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/thejathangavel/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
