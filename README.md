@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thejathangavel/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thejathangavel/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/thejathangavel/leetcode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/thejathangavel/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/thejathangavel/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/thejathangavel/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thejathangavel/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thejathangavel/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/thejathangavel/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/thejathangavel/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/thejathangavel/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/thejathangavel/leetcode/tree/master/0412-fizz-buzz) |
