@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/thejathangavel/leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/thejathangavel/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/thejathangavel/leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/thejathangavel/leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/thejathangavel/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thejathangavel/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thejathangavel/leetcode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/thejathangavel/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
