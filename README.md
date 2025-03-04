@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/thejathangavel/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/thejathangavel/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/thejathangavel/leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thejathangavel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/thejathangavel/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thejathangavel/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -20,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thejathangavel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/thejathangavel/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/thejathangavel/leetcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thejathangavel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/thejathangavel/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/thejathangavel/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/thejathangavel/leetcode/tree/master/0344-reverse-string) |
@@ -83,6 +85,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thejathangavel/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thejathangavel/leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thejathangavel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Trie
 |  |
 | ------- |
