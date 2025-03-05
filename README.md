@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/thejathangavel/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thejathangavel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/thejathangavel/leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thejathangavel/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@
 | [0202-happy-number](https://github.com/thejathangavel/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/thejathangavel/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/thejathangavel/leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [0001-two-sum](https://github.com/thejathangavel/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/thejathangavel/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/thejathangavel/leetcode/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +79,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/thejathangavel/leetcode/tree/master/0075-sort-colors) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -86,6 +90,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thejathangavel/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thejathangavel/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thejathangavel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Trie
 |  |
 | ------- |
