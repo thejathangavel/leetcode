@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thejathangavel/leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/thejathangavel/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/thejathangavel/leetcode/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thejathangavel/leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/thejathangavel/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/thejathangavel/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/thejathangavel/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/thejathangavel/leetcode/tree/master/0189-rotate-array) |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thejathangavel/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/thejathangavel/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
