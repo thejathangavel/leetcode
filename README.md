@@ -128,4 +128,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/thejathangavel/leetcode/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/thejathangavel/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
