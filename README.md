@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/thejathangavel/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thejathangavel/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/thejathangavel/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0035-search-insert-position](https://github.com/thejathangavel/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thejathangavel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/thejathangavel/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Trie
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thejathangavel/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/thejathangavel/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## String Matching
 |  |
 | ------- |
@@ -132,4 +135,8 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/thejathangavel/leetcode/tree/master/0176-second-highest-salary) |
+## Prefix Sum
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/thejathangavel/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
