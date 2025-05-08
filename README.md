@@ -20,6 +20,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thejathangavel/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thejathangavel/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/thejathangavel/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,4 +140,20 @@
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thejathangavel/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Graph
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/thejathangavel/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/thejathangavel/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Matrix
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/thejathangavel/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/thejathangavel/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
