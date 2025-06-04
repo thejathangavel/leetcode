@@ -35,6 +35,7 @@
 | [0283-move-zeroes](https://github.com/thejathangavel/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/thejathangavel/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/thejathangavel/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0344-reverse-string](https://github.com/thejathangavel/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/thejathangavel/leetcode/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thejathangavel/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/thejathangavel/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Memoization
 |  |
 | ------- |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/thejathangavel/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/thejathangavel/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
