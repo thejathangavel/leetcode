@@ -82,6 +82,7 @@
 | [0058-length-of-last-word](https://github.com/thejathangavel/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/thejathangavel/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/thejathangavel/leetcode/tree/master/0412-fizz-buzz) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/thejathangavel/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thejathangavel/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/thejathangavel/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Memoization
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/thejathangavel/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/thejathangavel/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
