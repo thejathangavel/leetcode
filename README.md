@@ -49,6 +49,7 @@
 | [0042-trapping-rain-water](https://github.com/thejathangavel/leetcode/tree/master/0042-trapping-rain-water) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thejathangavel/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/thejathangavel/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thejathangavel/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0202-happy-number](https://github.com/thejathangavel/leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/thejathangavel/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thejathangavel/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/thejathangavel/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thejathangavel/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/thejathangavel/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thejathangavel/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/thejathangavel/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Memoization
 |  |
@@ -153,6 +156,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thejathangavel/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/thejathangavel/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
 |  |
@@ -174,4 +178,5 @@
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/thejathangavel/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thejathangavel/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
