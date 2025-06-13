@@ -20,6 +20,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thejathangavel/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thejathangavel/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/thejathangavel/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/thejathangavel/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thejathangavel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thejathangavel/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/thejathangavel/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -178,5 +180,6 @@
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/thejathangavel/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/thejathangavel/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thejathangavel/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
