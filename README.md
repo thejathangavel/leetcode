@@ -76,6 +76,7 @@
 | [0202-happy-number](https://github.com/thejathangavel/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/thejathangavel/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/thejathangavel/leetcode/tree/master/0412-fizz-buzz) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/thejathangavel/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## String
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/thejathangavel/leetcode/tree/master/0062-unique-paths) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/thejathangavel/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Database
 |  |
 | ------- |
