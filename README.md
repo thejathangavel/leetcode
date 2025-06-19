@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/thejathangavel/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thejathangavel/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/thejathangavel/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thejathangavel/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/thejathangavel/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/thejathangavel/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -110,6 +111,7 @@
 | [0075-sort-colors](https://github.com/thejathangavel/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thejathangavel/leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/thejathangavel/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/thejathangavel/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Number Theory
 |  |
@@ -183,6 +185,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/thejathangavel/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/thejathangavel/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/thejathangavel/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/thejathangavel/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
