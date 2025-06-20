@@ -67,6 +67,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/thejathangavel/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thejathangavel/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/thejathangavel/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0258-add-digits](https://github.com/thejathangavel/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/thejathangavel/leetcode/tree/master/0412-fizz-buzz) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/thejathangavel/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/thejathangavel/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/thejathangavel/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thejathangavel/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/thejathangavel/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/thejathangavel/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Memoization
 |  |
 | ------- |
@@ -190,4 +193,8 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/thejathangavel/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/thejathangavel/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thejathangavel/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Counting
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/thejathangavel/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
