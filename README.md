@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/thejathangavel/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thejathangavel/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/thejathangavel/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/thejathangavel/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thejathangavel/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/thejathangavel/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -40,6 +41,7 @@
 | [0283-move-zeroes](https://github.com/thejathangavel/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/thejathangavel/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thejathangavel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/thejathangavel/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/thejathangavel/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
