@@ -28,6 +28,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thejathangavel/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/thejathangavel/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/thejathangavel/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3533-snake-in-matrix](https://github.com/thejathangavel/leetcode/tree/master/3533-snake-in-matrix) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/thejathangavel/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thejathangavel/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/thejathangavel/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thejathangavel/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3533-snake-in-matrix](https://github.com/thejathangavel/leetcode/tree/master/3533-snake-in-matrix) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/thejathangavel/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/thejathangavel/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Memoization
@@ -117,6 +119,7 @@
 | [0412-fizz-buzz](https://github.com/thejathangavel/leetcode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/thejathangavel/leetcode/tree/master/0861-flipping-an-image) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thejathangavel/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3533-snake-in-matrix](https://github.com/thejathangavel/leetcode/tree/master/3533-snake-in-matrix) |
 ## Sorting
 |  |
 | ------- |
